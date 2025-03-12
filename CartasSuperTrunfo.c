@@ -111,9 +111,6 @@ int main(){
 
     printf("Pontos turisticos: %i \n", pontosTuristicos2);
 
-
-    int resultado;
-
      // Calcular densidade demográfica
     densidade1 = populacao1 / area1;
     densidade2 = populacao2 / area2;
@@ -122,7 +119,13 @@ int main(){
     pibPercapita1 = pib1 / populacao1;
     pibPercapita2 = pib2 / populacao2;
 
-
+    // Calcular a densidade invertida
+    densidadeInvertida1 = 1 / densidade1;
+    densidadeInvertida2 = 1 / densidede2;
+    
+    // Calcular o SuperPoder 
+    float superPoder1 = ***SOMA DE TUDO****;
+    float superPoder2 = ***SOMA DE TUDO****;
    
     //Fazer comparação de todas propriedades, como exemplo: resultado para população, área, pib, comparando uma com a outra
 
